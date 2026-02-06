@@ -1,0 +1,6 @@
+5222B480;Marek;Romanowicz;29;10;BMw;335i;2015;3.0;520.00
+91F69D6F;Kamil;Jastrzebski;20;3;BMW;116i;2005;1.6;1050.00
+56A9812F;Zosia;Kowalska;20;3;Suzuki;GrandVitara;2004;2.0;1155.00
+07B9492E;Hubert ;Adamski;21;3;Opel;Astra;2004;1.6;1155.00
+354D04D3;Natalia;Pira;21;3;Fiat;Punto;2011;1.3;1050.00
+C770A7B5;Marek;Niewczas;21;1;Opel;Astra;2001;1.6;1485.00
